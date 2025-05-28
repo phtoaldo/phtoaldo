@@ -1,7 +1,7 @@
 ### Hello world, i am Pedro👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-pedro7&show_icons=true&theme=transparent&card_width=500)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-pedro7&layout=compact&theme=dark&card_width=500)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phtoaldo&show_icons=true&theme=transparent&card_width=500)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phtoaldo&layout=compact&theme=dark&card_width=500)
 
 ##
  <p>💡 Computer Development and Networks</p>
